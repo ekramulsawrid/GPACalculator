@@ -20,9 +20,9 @@ Input Validation
 
 ## Screenshots
 
-[<img src="/readme/GPA Calculator img001.png">](/readme/GPA Calculator img001.png)
-[<img src="/readme/GPA Calculator img002.png">](/readme/GPA Calculator img002.png)
-[<img src="/readme/GPA Calculator img003.png">](/readme/GPA Calculator img003.png)
-[<img src="/readme/GPA Calculator img004.png">](/readme/GPA Calculator img004.png)
+[<img src="/readme/GPA Calculator img001.PNG">](/readme/GPA Calculator img001.PNG)
+[<img src="/readme/GPA Calculator img002.PNG">](/readme/GPA Calculator img002.PNG)
+[<img src="/readme/GPA Calculator img003.PNG">](/readme/GPA Calculator img003.PNG)
+[<img src="/readme/GPA Calculator img004.PNG">](/readme/GPA Calculator img004.PNG)
 
 
