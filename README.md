@@ -25,4 +25,12 @@ Input Validation
 [<img src="/readme/GPA Calculator img003.PNG" width="200" hspace="10" vspace="10">](/readme/GPA%20Calculator%20img003.PNG)
 [<img src="/readme/GPA Calculator img004.PNG" width="200" hspace="10" vspace="10">](/readme/GPA%20Calculator%20img004.PNG)
 
+## Contributing
+
+Any contributions are welcome and will be greatly appreciated. Here are a few ways you can help:
+
+* Report bugs
+* Make suggestions or comments
+* Fork the project, create and push your feature branch, and open a pull request.
+
 
